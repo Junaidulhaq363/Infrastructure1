@@ -1,4 +1,9 @@
 .terraform
-.terraform.hcl.lock
+<<<<<<< HEAD
+.terraform.lock.hcl
 terraform.tfstate
 terraform.tfstate.backup
+=======
+.terraform.lock.hcl
+terraform.tfstate
+>>>>>>> b6f5045905f50fd89d2feb3d3cc8c34c33319369
