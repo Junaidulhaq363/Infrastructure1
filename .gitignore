@@ -1,10 +1,7 @@
 .terraform
-<<<<<<< HEAD
+
 *.tfstate
 *.tfstate.*
 **/.terraform/*
 
-=======
-.terraform.lock.hcl
-terraform.tfstate
->>>>>>> b6f5045905f50fd89d2feb3d3cc8c34c33319369
+
