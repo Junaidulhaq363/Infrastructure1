@@ -1,2 +1,2 @@
 .terraform
-.terraform.hcl.lock
+.terraform.lock.hcl
