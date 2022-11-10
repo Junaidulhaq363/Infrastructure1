@@ -5,7 +5,7 @@ resource "aws_lb" "test" {
   security_groups    = [aws_security_group.webserver.id]
   subnets            = [aws_subnet.first.id, aws_subnet.Second.id]
 
-  
+
 
 
   tags = {
